@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning Java and C#
 - 💞️ I’m looking to collaborate on Games
-- 📫 How to reach me Bruh u alr have my GitHub.
+- 📫 How to reach me| Bruh u alr have my GitHub.
 
 <!---
 Ultrapat/Ultrapat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
